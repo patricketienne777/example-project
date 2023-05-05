@@ -1,21 +1,36 @@
 *{
-    background-color:darkslategrey;
+    background-color:rgb(29, 36, 54);
     font-family: 'Times New Roman', Times, serif;
 }
 
-.container{
-    background-color:lightblue;
-    height: 200px;
-    width: 600px;
-    align-items: center;
+#spacer{
+    height: 300px;
 }
 
-/* #search{
+.box{
+    background-color:lightblue;
+    align-items: center;
+    color: azure;
+    padding: 50px;
+}
 
-} */
+#head{
+    background-color: lightblue;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
 
 .btn{
     background-color: aquamarine;
-    height: 200px;
-    width: 600px;
+    height: 40px;
+    width: 950px;
+    padding-right: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn2{
+    background-color: white;
 }
