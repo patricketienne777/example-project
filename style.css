@@ -2,3 +2,20 @@
     background-color:darkslategrey;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.container{
+    background-color:lightblue;
+    height: 200px;
+    width: 600px;
+    align-items: center;
+}
+
+/* #search{
+
+} */
+
+.btn{
+    background-color: aquamarine;
+    height: 200px;
+    width: 600px;
+}
